@@ -5,3 +5,8 @@ binding all the c++ code.
 
 ## Previous repository
 https://github.com/H3cth0r/LexicalAnalizerHPC.git
+
+
+
+https://user-images.githubusercontent.com/43997408/174142240-a0ea5d0d-8cba-4aa5-adc5-83df596224eb.mp4
+
